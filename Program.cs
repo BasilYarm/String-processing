@@ -305,8 +305,6 @@ namespace ProcString
         #region ReadFromFile
         static async void ReadFromFile()
         {
-            //FileStream fin = null;
-
             while (true)
             {
                 Console.ForegroundColor = ConsoleColor.Green;
